@@ -1,0 +1,845 @@
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+DrakSlime [SLIME    ] [DRAGON   ]
+
+SpotSlime [SLIME    ] [BEAST    ]
+
+WingSlime [SLIME    ] [BIRD     ]
+
+TreeSlime [SLIME    ] [PLANT    ]
+
+Snaily    [SLIME    ] [BUG      ]
+
+SlimeNite [SLIME    ] [DEVIL    ]
+
+                      /Poisongon\
+Babble    [SLIME    ] |GiantMoth|
+                      \[ZOMBIE] /
+
+BoxSlime  [SLIME    ] [MATERIAL ]
+
+Slime      ---------   ---------
+
+                      /PillowRat\
+Healer    [SLIME    ] |FunkyBird|
+                      |MadPlant |
+                      \CopyCat  /
+
+                      /Almiraj  \
+                      |GulpBeast|
+FangSlime [SLIME    ] |Trumpeter|
+                      |KingLeo  |
+                      |DarkHorn |
+                      \MadCat   /
+
+                      /Digster  \
+                      |DeadNite |
+RockSlime [SLIME    ] |Golem    |
+                      |StoneMan |
+                      \BombCrag /
+
+          /DrakSlime\ /Swordgon \
+          |SlimeNite| |Spikerous|
+SlimeBorg |RockSlime| |GreatDrak|
+          \Metabble / |BattleRex|
+                      \SkyDragon/
+          [SLIME    ]  Roboster
+
+Slabbit   [SLIME    ]  Skullroo
+
+                      /GreatDrak\
+                      |BattleRex|
+                      |Divinegon|
+                      |Unicorn  |
+                      |KingLeo  |
+SpotKing  /KingSlime\ |MadCondor|
+          \MetalKing/ |ZapBird  |
+                      |WhipBird |
+                      |Gigantes |
+                      |Centasaur|
+                      |DeadNoble|
+                      \WhiteKing/
+           SpotSlime   SpotSlime  +5 or better required
+
+                      /GreatDrak\
+                      |BattleRex|
+                      |Divinegon|
+                      |Unicorn  |
+                      |KingLeo  |
+KingSlime  SpotKing   |MadCondor|
+                      |ZapBird  |
+                      |WhipBird |
+                      |Gigantes |
+                      |Centasaur|
+                      |DeadNoble|
+                      \WhiteKing/
+           Slime       Slime      +5 or better required
+          [SLIME    ] [BOSS     ]
+
+Metaly    [SLIME    ]  MetalDrak
+
+Metabble   Metaly      Metaly
+
+          /SpotKing \  MetalDrak
+MetalKing \KingSlime/
+           Metabble    Metabble
+
+          /SpotKing \
+GoldSlime |KingSlime|  GoldGolem
+          \MetalKing/
+           MetalKing   MetalKing
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+DragonKid [DRAGON   ] [SLIME    ]
+
+Tortragon [DRAGON   ] [BEAST    ]
+
+Pteranod  [DRAGON   ] [BIRD     ]
+
+Gasgon    [DRAGON   ] [PLANT    ]
+
+FairyDrak [DRAGON   ] [BUG      ]
+
+LizardMan [DRAGON   ] [DEVIL    ]
+
+Poisongon [DRAGON   ] [ZOMBIE   ]
+
+Swordgon  [DRAGON   ] [MATERIAL ]
+
+Dragon     DragonKid   DragonKid
+
+MiniDrak  [DRAGON   ]  Picky
+
+MadDragon  Gasgon     [BEAST    ]
+          [DRAGON   ]  GulpBeast
+
+                      /WingSlime\
+                      |Trumpeter|
+                      |MadCat   |
+Rayburn    LizardMan  |FaceTree |
+                      |Lionex   |
+                      |GoatHorn |
+                      |GateGuard|
+                      \Gigantes /
+          [DRAGON   ]  MadCondor
+
+Chamelgon [DRAGON   ]  Voodoll
+
+LizardFly [DRAGON   ]  GoHopper
+
+                      /Goategon \
+                      |Trumpeter|
+                      |MadCondor|
+                      |WhipBird |
+          /Gasgon   \ |FunkyBird|
+Andreal   |MadDragon| |ArcDemon |
+          |BattleRex| |Lionex   |
+          \SkyDragon/ |GoatHorn |
+                      |Ogre     |
+                      |Akubar   |
+                      |DeadNoble|
+                      \Golem    /
+          [DRAGON   ]  Gulpple
+
+KingCobra [DRAGON   ]  Babble
+
+Spikerous [DRAGON   ] /ArmyCrab \
+                      \Digster  /
+
+                      /SpotKing \
+                      |KingSlime|
+                      |MetalKing|
+                      |BattleRex|
+GreatDrak [DRAGON   ] |Unicorn  |
+                      |ZapBird  |
+                      |WhipBird |
+                      |Gigantes |
+                      \Centasaur/
+           DragonKid   DragonKid  +4 or better required
+           Dragon      Dragon     +4 or better required
+
+Crestpent [DRAGON   ]  BigRoost
+
+WingSnake  Crestpent   Crestpent
+
+          /Pteranod \ /DarkHorn \
+          |Gasgon   | |MadKnight|
+Coatol    |LizardMan| |Copycat  |
+          |BattleRex| \StoneMan /
+          \SkyDragon/
+           WingSnake   WingSnake
+
+          /Andreal  \  MedusaEye
+Orochi    \GreatDrak/
+          [DRAGON   ] [BOSS     ]
+
+                      /KingLeo  \
+                      |Lionex   |
+BattleRex [DRAGON   ] |Ogre     |
+                      |MadKnight|
+                      \EvilArmor/
+
+SkyDragon [DRAGON   ]  Phoenix
+
+Divinegon  SkyDragon   Orochi
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+Tonguella [BEAST    ] [SLIME    ]
+
+Almiraj   [BEAST    ] [DRAGON   ]
+
+CatFly    [BEAST    ] [BIRD     ]
+
+PillowRat [BEAST    ] [PLANT    ]
+
+Saccer    [BEAST    ] [BUG      ]
+
+          /Tonguella\ /Digster  \
+          |Grizzly  | |Skullgon |
+          |Yeti     | |DeadNoble|
+          |Unicorn  | |WhiteKing|
+          |WildApe  | \Skeletor /
+          \Trumpeter/
+          /IronTurt \ /MetalDrak\
+          |Grizzly  | |Roboster |
+GulpBeast |Yeti     | |LavaMan  |
+          |Unicorn  | |IceMan   |
+          |Goategon | |Golem    |
+          \WildApe  / \StoneMan /
+          /Grizzly  \
+          |Yeti     | [DRAGON   ]
+          |Trumpeter|
+          \BigEye   /
+           Grizzly    [DEVIL    ]
+
+Skullroo  [BEAST    ] [ZOMBIE   ]
+
+WindBeast  Catfly     [BIRD     ]
+          [BEAST    ] [MATERIAL ]
+
+Anteater   Saccer     [DRAGON   ]
+
+                      /TreeSlime\
+                      |FangSlime|
+                      |MadDragon|
+                      |FunkyBird|
+                      |MadPlant |
+SuperTen  /Tonguella\ |FaceTree |
+          \GulpBeast/ |Lipsy    |
+                      |Demonite |
+                      |Gremlin  |
+                      |CopyCat  |
+                      |JewelBag |
+                      \Mimic    /
+          [BEAST    ]  Mudron
+
+IronTurt  [BEAST    ]  Tortragon
+
+Mommonja  [BEAST    ]  DuckKite
+
+HammerMan [BEAST    ]  StubSuck
+
+                      /MetalDrak\
+                      |Roboster |
+                      |LavaMan  |
+Grizzly   [BEAST]     |IceMan   |
+                      |Golem    |
+                      |StoneMan |
+                      \[DEVIL]  /
+
+                      /Pteranod \
+          /IronTurt \ |Gasgon   |
+          |Goategon | |Swordgon |
+Yeti      |WildApe  | |MadDragon|
+          \MadCat   / |BattleRex|
+                      \SkyDragon/
+          [BEAST    ]  Orc
+
+MadGopher [BEAST    ]  SabreMan
+
+FairyRat  [BEAST    ]  LizardFly
+
+          /Tonguella\
+          |GulpBeast|
+          |Grizzly  |
+Unicorn   |Yeti     | [SLIME    ]
+          |Goategon |
+          |WildApe  |
+          \Trumpeter/
+          [BEAST    ]  FangSlime
+
+Goategon  [BEAST    ] /DrakSlime\
+                      \LizardMan/
+
+WildApe    Almiraj    [DRAGON   ]
+          [BEAST    ]  MadPecker
+
+          /Tonguella\ /LandOwl  \
+          |GulpBeast| |MadCondor|
+          |Grizzly  | |ZapBird  |
+          \Yeti     / \WhipBird /
+                      /MetalDrak\
+                      |Balzak   |
+                      |Roboster |
+Trumpeter  GulpBeast  |LavaMan  |
+                      |IceMan   |
+                      |Golem    |
+                      \StoneMan /
+           WildApe     WildApe
+           SuperTen   [DRAGON   ]
+
+                      /Trumpeter\
+                      |MetalDrak|
+           Trumpeter  |Balzak   |
+                      \GoldGolem/
+KingLeo               /GulpBeast\
+                      |SuperTen |
+           Roboster   |Unicorn  |
+                      |Trumpeter|
+                      |DarkHorn |
+                      \MadCat   /
+
+DarkHorn  [BEAST    ] [BOSS     ]
+
+MadCat    [BEAST    ]  Dragon
+
+BigEye    [BEAST    ]  EyeBall
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+Picky     [BIRD     ] [SLIME    ]
+
+Wyvern    [BIRD     ] [DRAGON   ]
+
+BullBird  [BIRD     ] [BEAST    ]
+
+FloraJay  [BIRD     ] [PLANT    ]
+
+DuckKite  [BIRD     ] [BUG      ]
+
+MadPecker [BIRD     ] [DEVIL    ]
+
+MadRaven  [BIRD     ] [ZOMBIE   ]
+
+MistyWing [BIRD     ] [MATERIAL ]
+
+Dracky     Picky      [SLIME    ]
+
+BigRoost   ---------   ---------
+
+StubBird  [BIRD     ] [RockSlime]
+
+LandOwl    BullBird   [BEAST    ]
+
+          /Wyvern   \
+          |LandOwl  | /[DRAGON] \
+MadGoose  |MadCondor| \[ZOMBIE] /
+          \Phoenix  /
+          [BIRD     ]  Droll
+
+MadCondor  LandOwl    [DEVIL    ]
+          [BIRD     ]  CoilBird
+
+                      /Metaly   \
+                      |Metabble |
+                      |SuperTen |
+                      |Yeti     |
+                      |Goategon |
+Blizzardy [BIRD     ] |Trumpeter|
+                      |Skullgon |
+                      |DeadNoble|
+                      |WhiteKing|
+                      |Skeletor |
+                      |Servant  |
+                      \IceMan   /
+
+                      /DrakSlime\
+                      |GulpBeast|
+                      |IronTurt |
+Phoenix   [BIRD     ] |Grizzly  |
+                      |ArcDemon |
+                      |CopyCat  |
+                      |Gismo    |
+                      \LavaMan  /
+
+          /MadCondor\
+ZapBird   |Phoenix  |  Gismo
+          \WhipBird /
+          [BIRD     ] [BOSS     ]
+
+          /LandOwl  \ /RockSlime\
+          |MadGoose | |SlimeBorg|
+WhipBird  |MadCondor| |Digster  |
+          |Blizzardy| |MetalDrak|
+          \ZapBird  / |Golem    |
+                      \StoneMan /
+          [BIRD     ]  Rayburn
+
+FunkyBird [BIRD     ]  DanceVegi
+
+RainHawk   Blizzardy   Phoenix
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+MadPlant  [PLANT    ] [SLIME    ]
+
+FireWeed  [PLANT    ] [DRAGON   ]
+
+FloraMan  [PLANT    ] [BEAST    ]
+
+WingTree  [PLANT    ] [BIRD     ]
+
+CactiBall [PLANT    ] [BUG      ]
+
+Gulpple   [PLANT    ] [DEVIL    ]
+
+Toadstool [PLANT    ] [ZOMBIE   ]
+
+AmberWeed [PLANT    ] [MATERIAL ]
+
+StubSuck   AmberWeed  [BEAST    ]
+
+Oniono    [PLANT    ]  Gophecada
+
+DanceVegi  MadPlant   [BEAST    ]
+          [PLANT    ]  Facer
+
+TreeBoy   [PLANT    ]  Pixy
+
+FaceTree   HerbMan    [DRAGON   ]
+          [PLANT    ]  NiteWhip
+
+HerbMan    DanceVegi  [DEVIL    ]
+          [PLANT    ]  FunkyBird
+
+BeanMan   [PLANT    ]  PillowRat
+
+                      /RockSlime\
+                      |BigEye   |
+                      |DuckKite |
+EvilSeed  [PLANT    ] |Butterfly|
+                      |Eyeder   |
+                      |DarkEye  |
+                      |EyeBall  |
+                      \MadMirror/
+
+ManEater   EvilSeed    EvilSeed
+
+Snapper    ManEater    ManEater
+
+Rosevine  [PLANT    ] [BOSS     ]
+
+Watabou    ---------   ---------  Can only get once per game
+                                  You need Watabou to breed DarkDrium
+                                  So don't breed him with anything else!
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+GiantSlug [BUG      ] [SLIME    ]
+
+Catapila  [BUG      ] [DRAGON   ]
+
+Gophecada [BUG      ] [BEAST    ]
+
+Butterfly [BUG      ] [BIRD     ]
+
+WeedBug   [BUG      ] [PLANT    ]
+
+GiantWorm [BUG      ] [DEVIL    ]
+
+Lipsy     [BUG      ] [ZOMBIE   ]
+
+StagBug   [BUG      ] [MATERIAL ]
+
+ArmyAnt    GiantSlug  [SLIME    ]
+
+GoHopper   ---------   ---------
+
+TailEater  WeedBug    [PLANT    ]
+          [BUG      ]  FloraMan
+
+           GiantWorm  [MATERIAL ]
+ArmorPede  Droll      [DRAGON   ]
+          [BUG      ]  IronTurt
+
+Eyeder     Catapila   [BEAST    ]
+          [BUG      ]  AmberWeed
+
+GiantMoth  Butterfly  [DEVIL    ]
+          [BUG      ]  Saccer
+
+          /Butterfly\ /Butterfly\
+Droll     |TailEater| |TailEater|
+          \Eyeder   / \Eyeder   /
+           Lipsy      [SLIME    ]
+          [BUG      ]  Spooky
+
+ArmyCrab  [BUG      ]  DarkCrab
+
+          /Eyeder   \ [ZOMBIE   ]
+MadHornet \Droll    /
+          [BUG      ]  FairyRat
+
+HornBeet   StagBug     StagBug
+           ArmorPede  [DEVIL    ]
+
+Armorpion  HornBeet    HornBeet
+
+Digster   [BUG      ] [BOSS     ]
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+Pixy      [DEVIL    ] [SLIME    ]
+
+                      /SpotKing \
+                      |KingSlime|
+                      |MetalKing|
+                      |Andreal  |
+                      |GreatDrak|
+          /AgDevil  \ |Orochi   |
+ArcDemon  |Grendal  | |Trumpeter|
+          \Gigantes / |KingLeo  |
+                      |ZapBird  |
+                      |WhipBird |
+                      |MetalDrak|
+                      \StoneMan /
+           GateGuard  [ZOMBIE   ]
+           Ogre       [DRAGON   ]
+          [DEVIL    ] [BOSS     ]
+
+          /SkulRider\
+AgDevil   |EvilBeast| [DRAGON   ]
+          |Gremlin  |
+          \MedusaEye/
+
+Demonite  [DEVIL    ] [BIRD     ]
+
+DarkEye   [DEVIL    ] [PLANT    ]
+
+EyeBall   [DEVIL    ] [BUG      ]
+
+SkulRider [DEVIL    ] [ZOMBIE   ]
+
+EvilBeast [DEVIL    ] [MATERIAL ]
+
+          /Pixy     \
+1EyeClown |Demonite | [SLIME    ]
+          \EyeBall  /
+
+Gremlin   [DEVIL    ] [BEAST    ]
+
+          /MedusaEye\
+MedusaEye |1EyeClown| [ZOMBIE   ]
+          \Gremlin  /
+          [DEVIL    ] [DRAGON   ]
+
+Lionex     ArcDemon   [ZOMBIE   ]
+          [DEVIL    ]  LizardMan
+
+GoatHorn   ArcDemon   [BEAST    ]
+          [DEVIL    ]  DarkHorn
+
+Orc       [DEVIL    ]  BeanMan
+
+          /AgDevil  \ /GulpBeast\
+Ogre      |Grendal  | |Unicorn  |
+          \Gigantes / |Digster  |
+                      \Roboster /
+           GateGuard  [DRAGON   ]
+          [DEVIL    ]  HammerMan
+
+                      /SlimeBorg\
+                      |Swordgon |
+                      |Coatol   |
+                      |MistyWing|
+          /AgDevil  \ |MadCondor|
+GateGuard |Grendal  | |Rosevine |
+          \Gigantes / |GiantMoth|
+                      |Skullgon |
+                      |DeadNoble|
+                      \WhiteKing/
+           Demonite    Demonite
+           Ogre       [ZOMBIE   ]
+
+ChopClown  1EyeClown   1EyeClown
+
+          /SkulRider\
+          |EvilBeast|
+Grendal   |Gremlin  | [BEAST    ]
+          \MedusaEye/
+          [DEVIL    ]  MadDragon
+
+Akubar     ArcDemon    GateGuard
+           Grendal     Grendal
+
+MadKnight [DEVIL    ]  RogueNite
+
+          /SkulRider\ [ZOMBIE   ]
+Gigantes  \EvilBeast/
+          [DEVIL    ]  BigEye
+
+           ArcDemon   [DRAGON   ]
+Centasaur /Ogre     \
+          \GateGuard/ [BEAST    ]
+
+          /ArcDemon \
+EvilArmor |Ogre     | [MATERIAL ]
+          \GateGuard/
+          [DEVIL    ]  ArmorPede
+
+Jamirus    Akubar      RainHawk
+           RainHawk    Akubar
+
+Durran     Centasaur   GoldGolem
+           GoldGolem   Centasaur
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+Spooky    [ZOMBIE   ] [SLIME    ]
+
+          /Skullgon \
+          |DeadNoble|
+          |WhiteKing| [DRAGON   ]
+          |BoneSlave|
+          \Skeletor /
+                      /Swordgon \
+                      |Rayburn  |
+                      |Andreal  |
+Skullgon  [ZOMBIE   ] |GreatDrak|
+                      |Orochi   |
+                      |BattleRex|
+                      \Divinegon/
+                      /Skullgon \
+          [DRAGON   ] |DeadNoble|
+                      |WhiteKing|
+                      \Servant  /
+
+Putrepup  [ZOMBIE   ] [BEAST    ]
+
+RotRaven  [ZOMBIE   ] [BIRD     ]
+
+Mummy     [ZOMBIE   ] [PLANT    ]
+
+DarkCrab  [ZOMBIE   ] [BUG      ]
+
+DeadNite  [ZOMBIE   ] [DEVIL    ]
+
+Shadow    [ZOMBIE   ] [MATERIAL ]
+
+Hork       Spooky     [BEAST    ]
+
+                      /BoxSlime \
+                      |FangSlime|
+                      |Tonguella|
+                      |Yeti     |
+Mudron    [ZOMBIE   ] |FunkyBird|
+                      |MadPlant |
+                      |DanceVegi|
+                      |GiantSlug|
+                      |Lipsy    |
+                      \Droll    /
+
+          /DarkCrab \ [DEVIL    ]
+NiteWhip  \MadSpirit/
+          [ZOMBIE   ]  MistyWing
+
+          /Skullgon \
+          |DeadNite |
+          |Mudron   |
+MadSpirit |DeadNoble| [BIRD     ]
+          |BoneSlave|
+          \Skeletor /
+          [ZOMBIE   ] [DRAGON   ]
+
+WindMerge  RotRaven   [BIRD     ]
+          [ZOMBIE   ]  WindBeast
+
+          /Spooky   \ [DEVIL    ]
+Reaper    \Hork     /
+          [ZOMBIE   ]  WeedBug
+
+          /Mudron   \ /ArcDemon \
+          |MadSpirit| |Lionex   |
+          |BoneSlave| |GateGuard|
+          \Skeletor / |MetalDrak|
+                      \Roboster /
+          /Skullgon \
+          |DeadNite |
+DeadNoble |Mudron   |  Copycat
+          |BoneSlave|
+          \Skeletor /
+           DeadNite    DeadNite
+
+                      /SpotKing \
+                      |KingSlime|
+                      |MetalKing|
+          /Skullgon \ |Andreal  |
+          |DeadNoble| |GreatDrak|
+WhiteKing |BoneSlave| |KingLeo  |
+          \Skeletor / |Blizzardy|
+                      |ZapBird  |
+                      |WhipBird |
+                      \GoldGolem/
+          [ZOMBIE   ] [BOSS     ]
+
+                      /RockSlime\
+                      |SlimeBorg|
+          /Mummy    \ |LandOwl  |
+BoneSlave |DeadNite | |MadGoose |
+          \Hork     / |FloraMan |
+                      |HornBeet |
+                      \Gremlin  /
+           Hork        Hork
+
+                      /GulpBeast\
+                      |Grizzly  |
+                      |MadCat   |
+          /Mummy    \ |MadRaven |
+          |DeadNite | |MadCondor|
+Skeletor  |Hork     | |EvilBeast|
+          \Mudron   / |Ogre     |
+                      |Golem    |
+                      \StoneMan /
+           BoneSlave   BoneSlave
+           MadSpirit  [DRAGON   ]
+
+Servant    Skeletor    Skeletor
+           WhiteKing  [DEVIL    ]
+
+Copycat    ---------   ---------
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+JewelBag  [MATERIAL ] [SLIME    ]
+
+EvilWand  [MATERIAL ] [DRAGON   ]
+
+MadCandle [MATERIAL ] [BEAST    ]
+
+CoilBird  [MATERIAL ] [BIRD     ]
+
+Facer     [MATERIAL ] [PLANT    ]
+
+SpikyBoy  [MATERIAL ] [BUG      ]
+
+MadMirror [MATERIAL ] [DEVIL    ]
+
+RogueNite [MATERIAL ] [ZOMBIE   ]
+
+Goopi      JewelBag   [SLIME    ]
+
+                      /DrakSlime\
+          /Golem    \ |Snaily   |
+Voodoll   \StoneMan / |SlimeNite|
+                      \RockSlime/
+          [MATERIAL ]  Lipsy
+
+                      /SlimeBorg\
+                      |KingSlime|
+          /Andreal  \ |Digster  |
+MetalDrak |Spikerous| |Skullgon |
+          \GreatDrak/ |Roboster |
+                      |Golem    |
+                      \StoneMan /
+          /MetalDrak\ [DRAGON   ]
+          \Roboster /
+          [MATERIAL ]  Andreal
+
+          /LavaMan  \
+Balzak    \IceMan   / [DEVIL    ]
+          [MATERIAL ] [BOSS     ]
+
+          /EvilWand \ /LandOwl  \
+          |Voodoll  | |MadGoose |
+SabreMan  |Golem    | |Phoenix  |
+          \StoneMan / \FunkyBird/
+          [MATERIAL ]  GiantWorm
+
+CurseLamp  Roboster   [BIRD     ]
+          [MATERIAL ]  WingTree
+
+                      /SlimeBorg\
+                      |GreatDrak|
+                      |Unicorn  |
+                      |Ogre     |
+           SabreMan   |Grendal  |
+                      |EvilArmor|
+                      |DeadNoble|
+Roboster              \Skeletor /
+                      /GulpBeast\
+                      |Grizzly  |
+          [MATERIAL ] |Trumpeter|
+                      |KingLeo  |
+                      \SkulRider/
+
+EvilPot    Gismo      [DEVIL    ]
+          [MATERIAL ]  Snaily
+
+                      /DrakSlime\
+          /MadCandle\ |Wyvern   |
+Gismo     |MadMirror| |MistyWing|
+          \Goopi    / |Phoenix  |
+                      |FireWeed |
+                      \EvilSeed /
+
+                      /Orochi   \
+                      |KingLeo  |
+LavaMan    MetalDrak  |ZapBird  |
+                      |ArcDemon |
+                      \Centasaur/
+
+                      /Skullgon \
+IceMan     MetalDrak  \WhiteKing/
+           Roboster    KingLeo
+
+Mimic      Roboster   [ZOMBIE   ]
+          [MATERIAL ]  BoxSlime
+
+MudDoll    Goopi       Goopi
+
+Golem      MudDoll     MudDoll
+
+           Golem       Golem
+StoneMan  [MATERIAL ] /HornBeet \
+                      \Digster  /
+
+BombCrag   SpikyBoy    SpikyBoy
+           Roboster   [BUG      ]
+
+GoldGolem  IceMan      LavaMan
+
+Name       Parent1     Parent2    Comments
+-------------------------------------------
+DracoLord1 Servant    /Andreal  \
+                      \GreatDrak/
+
+DracoLord2 DracoLord1  Divinegon
+
+Hargon     WhiteKing   MetalKing
+
+Sidoh      Jamirus     Rosevine
+
+Baramos    Hargon      Orochi
+
+Zoma       DracoLord   Sidoh      Can use either DracoLord
+
+Pizzaro    Durran      Divinegon
+
+Esterk     Pizzaro     KingLeo
+
+Mirudraas1 Esterk      GoldSlime
+
+Mirudraas2 Mirudraas1  Spikerous
+
+Mudou      Baramos     DarkHorn
+
+DeathMore1 Zoma        Mirudraas  Can use either Mirudraas
+
+DeathMore2 DeathMore1  Armorpion
+
+DeathMore3 DeathMore2  Mudou
+
+DarkDrium  DeathMore3  Watabou    Can only make once per game
+                                  Since there's only one Watabou

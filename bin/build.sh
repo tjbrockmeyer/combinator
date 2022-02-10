@@ -1,0 +1,1 @@
+elm make --output public/index.html src/Main.elm 

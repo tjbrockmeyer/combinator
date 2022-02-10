@@ -1,0 +1,4177 @@
+[
+  {
+    "name": "SLIME",
+    "units": [
+      {
+        "name": "DrakSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SpotSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WingSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "TreeSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Snaily",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SlimeNite",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Babble",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "Poisongon",
+              "GiantMoth",
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BoxSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Slime",
+        "combinations": [
+          {
+            "base": [
+              "?????"
+            ],
+            "secondary": [
+              "?????"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Healer",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "PillowRat",
+              "FunkyBird",
+              "MadPlant",
+              "CopyCat"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FangSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "Almiraj",
+              "GulpBeast",
+              "Trumpeter",
+              "KingLeo",
+              "DarkHorn",
+              "MadCat"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "RockSlime",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "Digster",
+              "DeadNite",
+              "Golem",
+              "StoneMan",
+              "BombCrag"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SlimeBorg",
+        "combinations": [
+          {
+            "base": [
+              "DrakSlime",
+              "SlimeNite",
+              "RockSlime",
+              "Metabble"
+            ],
+            "secondary": [
+              "Swordgon",
+              "Spikerous",
+              "GreatDrak",
+              "BattleRex",
+              "SkyDragon"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "Roboster"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Slabbit",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "Skullroo"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SpotKing",
+        "combinations": [
+          {
+            "base": [
+              "KingSlime",
+              "MetalKing"
+            ],
+            "secondary": [
+              "GreatDrak",
+              "BattleRex",
+              "Divinegon",
+              "Unicorn",
+              "KingLeo",
+              "MadCondor",
+              "ZapBird",
+              "WhipBird",
+              "Gigantes",
+              "Centasaur",
+              "DeadNoble",
+              "WhiteKing"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "SpotSlime"
+            ],
+            "secondary": [
+              "SpotSlime"
+            ],
+            "notes": "+5 or better required"
+          }
+        ]
+      },
+      {
+        "name": "KingSlime",
+        "combinations": [
+          {
+            "base": [
+              "SpotKing"
+            ],
+            "secondary": [
+              "GreatDrak",
+              "BattleRex",
+              "Divinegon",
+              "Unicorn",
+              "KingLeo",
+              "MadCondor",
+              "ZapBird",
+              "WhipBird",
+              "Gigantes",
+              "Centasaur",
+              "DeadNoble",
+              "WhiteKing"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Slime"
+            ],
+            "secondary": [
+              "Slime"
+            ],
+            "notes": "+5 or better required"
+          },
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Metaly",
+        "combinations": [
+          {
+            "base": [
+              "SLIME"
+            ],
+            "secondary": [
+              "MetalDrak"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Metabble",
+        "combinations": [
+          {
+            "base": [
+              "Metaly"
+            ],
+            "secondary": [
+              "Metaly"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MetalKing",
+        "combinations": [
+          {
+            "base": [
+              "SpotKing",
+              "KingSlime"
+            ],
+            "secondary": [
+              "MetalDrak"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Metabble"
+            ],
+            "secondary": [
+              "Metabble"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GoldSlime",
+        "combinations": [
+          {
+            "base": [
+              "SpotKing",
+              "KingSlime",
+              "MetalKing"
+            ],
+            "secondary": [
+              "GoldGolem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MetalKing"
+            ],
+            "secondary": [
+              "MetalKing"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DRAGON",
+    "units": [
+      {
+        "name": "DragonKid",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Tortragon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Pteranod",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gasgon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FairyDrak",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "LizardMan",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Poisongon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Swordgon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Dragon",
+        "combinations": [
+          {
+            "base": [
+              "DragonKid"
+            ],
+            "secondary": [
+              "DragonKid"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MiniDrak",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Picky"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadDragon",
+        "combinations": [
+          {
+            "base": [
+              "Gasgon"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "GulpBeast"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Rayburn",
+        "combinations": [
+          {
+            "base": [
+              "LizardMan"
+            ],
+            "secondary": [
+              "WingSlime",
+              "Trumpeter",
+              "MadCat",
+              "FaceTree",
+              "Lionex",
+              "GoatHorn",
+              "GateGuard",
+              "Gigantes"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "MadCondor"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Chamelgon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Voodoll"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "LizardFly",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "GoHopper"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Andreal",
+        "combinations": [
+          {
+            "base": [
+              "Gasgon",
+              "MadDragon",
+              "BattleRex",
+              "SkyDragon"
+            ],
+            "secondary": [
+              "Goategon",
+              "Trumpeter",
+              "MadCondor",
+              "WhipBird",
+              "FunkyBird",
+              "ArcDemon",
+              "Lionex",
+              "GoatHorn",
+              "Ogre",
+              "Akubar",
+              "DeadNoble",
+              "Golem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Gulpple"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "KingCobra",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Babble"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Spikerous",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "ArmyCrab",
+              "Digster"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GreatDrak",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "SpotKing",
+              "KingSlime",
+              "MetalKing",
+              "BattleRex",
+              "Unicorn",
+              "ZapBird",
+              "WhipBird",
+              "Gigantes",
+              "Centasaur"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DragonKid"
+            ],
+            "secondary": [
+              "DragonKid"
+            ],
+            "notes": "+4 or better required"
+          },
+          {
+            "base": [
+              "Dragon"
+            ],
+            "secondary": [
+              "Dragon"
+            ],
+            "notes": "+4 or better required"
+          }
+        ]
+      },
+      {
+        "name": "Crestpent",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "BigRoost"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WingSnake",
+        "combinations": [
+          {
+            "base": [
+              "Crestpent"
+            ],
+            "secondary": [
+              "Crestpent"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Coatol",
+        "combinations": [
+          {
+            "base": [
+              "Pteranod",
+              "Gasgon",
+              "LizardMan",
+              "BattleRex",
+              "SkyDragon"
+            ],
+            "secondary": [
+              "DarkHorn",
+              "MadKnight",
+              "Copycat",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "WingSnake"
+            ],
+            "secondary": [
+              "WingSnake"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Orochi",
+        "combinations": [
+          {
+            "base": [
+              "Andreal",
+              "GreatDrak"
+            ],
+            "secondary": [
+              "MedusaEye"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BattleRex",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "KingLeo",
+              "Lionex",
+              "Ogre",
+              "MadKnight",
+              "EvilArmor"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SkyDragon",
+        "combinations": [
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Phoenix"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Divinegon",
+        "combinations": [
+          {
+            "base": [
+              "SkyDragon"
+            ],
+            "secondary": [
+              "Orochi"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEAST",
+    "units": [
+      {
+        "name": "Tonguella",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Almiraj",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "CatFly",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "PillowRat",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Saccer",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GulpBeast",
+        "combinations": [
+          {
+            "base": [
+              "Tonguella",
+              "Grizzly",
+              "Yeti",
+              "Unicorn",
+              "WildApe",
+              "Trumpeter"
+            ],
+            "secondary": [
+              "Digster",
+              "Skullgon",
+              "DeadNoble",
+              "WhiteKing",
+              "Skeletor"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "IronTurt",
+              "Grizzly",
+              "Yeti",
+              "Unicorn",
+              "Goategon",
+              "WildApe"
+            ],
+            "secondary": [
+              "MetalDrak",
+              "Roboster",
+              "LavaMan",
+              "IceMan",
+              "Golem",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Grizzly",
+              "Yeti",
+              "Trumpeter",
+              "BigEye"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Grizzly"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Skullroo",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WindBeast",
+        "combinations": [
+          {
+            "base": [
+              "Catfly"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Anteater",
+        "combinations": [
+          {
+            "base": [
+              "Saccer"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SuperTen",
+        "combinations": [
+          {
+            "base": [
+              "Tonguella",
+              "GulpBeast"
+            ],
+            "secondary": [
+              "TreeSlime",
+              "FangSlime",
+              "MadDragon",
+              "FunkyBird",
+              "MadPlant",
+              "FaceTree",
+              "Lipsy",
+              "Demonite",
+              "Gremlin",
+              "CopyCat",
+              "JewelBag",
+              "Mimic"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "Mudron"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "IronTurt",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "Tortragon"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mommonja",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "DuckKite"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "HammerMan",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "StubSuck"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Grizzly",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "MetalDrak",
+              "Roboster",
+              "LavaMan",
+              "IceMan",
+              "Golem",
+              "StoneMan",
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Yeti",
+        "combinations": [
+          {
+            "base": [
+              "IronTurt",
+              "Goategon",
+              "WildApe",
+              "MadCat"
+            ],
+            "secondary": [
+              "Pteranod",
+              "Gasgon",
+              "Swordgon",
+              "MadDragon",
+              "BattleRex",
+              "SkyDragon"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "Orc"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadGopher",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "SabreMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FairyRat",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "LizardFly"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Unicorn",
+        "combinations": [
+          {
+            "base": [
+              "Tonguella",
+              "GulpBeast",
+              "Grizzly",
+              "Yeti",
+              "Goategon",
+              "WildApe",
+              "Trumpeter"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "FangSlime"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Goategon",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "DrakSlime",
+              "LizardMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WildApe",
+        "combinations": [
+          {
+            "base": [
+              "Almiraj"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "MadPecker"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Trumpeter",
+        "combinations": [
+          {
+            "base": [
+              "Tonguella",
+              "GulpBeast",
+              "Grizzly",
+              "Yeti"
+            ],
+            "secondary": [
+              "LandOwl",
+              "MadCondor",
+              "ZapBird",
+              "WhipBird"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "GulpBeast"
+            ],
+            "secondary": [
+              "MetalDrak",
+              "Balzak",
+              "Roboster",
+              "LavaMan",
+              "IceMan",
+              "Golem",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "WildApe"
+            ],
+            "secondary": [
+              "WildApe"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "SuperTen"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "KingLeo",
+        "combinations": [
+          {
+            "base": [
+              "Trumpeter"
+            ],
+            "secondary": [
+              "Trumpeter",
+              "MetalDrak",
+              "Balzak",
+              "GoldGolem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Roboster"
+            ],
+            "secondary": [
+              "GulpBeast",
+              "SuperTen",
+              "Unicorn",
+              "Trumpeter",
+              "DarkHorn",
+              "MadCat"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DarkHorn",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadCat",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "Dragon"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BigEye",
+        "combinations": [
+          {
+            "base": [
+              "BEAST"
+            ],
+            "secondary": [
+              "EyeBall"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BIRD",
+    "units": [
+      {
+        "name": "Picky",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Wyvern",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BullBird",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FloraJay",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DuckKite",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadPecker",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadRaven",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MistyWing",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Dracky",
+        "combinations": [
+          {
+            "base": [
+              "Picky"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BigRoost",
+        "combinations": [
+          {
+            "base": [
+              "?????"
+            ],
+            "secondary": [
+              "?????"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "StubBird",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "RockSlime"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "LandOwl",
+        "combinations": [
+          {
+            "base": [
+              "BullBird"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadGoose",
+        "combinations": [
+          {
+            "base": [
+              "Wyvern",
+              "LandOwl",
+              "MadCondor",
+              "Phoenix"
+            ],
+            "secondary": [
+              "DRAGON",
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "Droll"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadCondor",
+        "combinations": [
+          {
+            "base": [
+              "LandOwl"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "CoilBird"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Blizzardy",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "Metaly",
+              "Metabble",
+              "SuperTen",
+              "Yeti",
+              "Goategon",
+              "Trumpeter",
+              "Skullgon",
+              "DeadNoble",
+              "WhiteKing",
+              "Skeletor",
+              "Servant",
+              "IceMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Phoenix",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "DrakSlime",
+              "GulpBeast",
+              "IronTurt",
+              "Grizzly",
+              "ArcDemon",
+              "CopyCat",
+              "Gismo",
+              "LavaMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ZapBird",
+        "combinations": [
+          {
+            "base": [
+              "MadCondor",
+              "Phoenix",
+              "WhipBird"
+            ],
+            "secondary": [
+              "Gismo"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WhipBird",
+        "combinations": [
+          {
+            "base": [
+              "LandOwl",
+              "MadGoose",
+              "MadCondor",
+              "Blizzardy",
+              "ZapBird"
+            ],
+            "secondary": [
+              "RockSlime",
+              "SlimeBorg",
+              "Digster",
+              "MetalDrak",
+              "Golem",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "Rayburn"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FunkyBird",
+        "combinations": [
+          {
+            "base": [
+              "BIRD"
+            ],
+            "secondary": [
+              "DanceVegi"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "RainHawk",
+        "combinations": [
+          {
+            "base": [
+              "Blizzardy"
+            ],
+            "secondary": [
+              "Phoenix"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PLANT",
+    "units": [
+      {
+        "name": "MadPlant",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FireWeed",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FloraMan",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WingTree",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "CactiBall",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gulpple",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Toadstool",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "AmberWeed",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "StubSuck",
+        "combinations": [
+          {
+            "base": [
+              "AmberWeed"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Oniono",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "Gophecada"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DanceVegi",
+        "combinations": [
+          {
+            "base": [
+              "MadPlant"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "Facer"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "TreeBoy",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "Pixy"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "FaceTree",
+        "combinations": [
+          {
+            "base": [
+              "HerbMan"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "NiteWhip"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "HerbMan",
+        "combinations": [
+          {
+            "base": [
+              "DanceVegi"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "FunkyBird"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BeanMan",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "PillowRat"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EvilSeed",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "RockSlime",
+              "BigEye",
+              "DuckKite",
+              "Butterfly",
+              "Eyeder",
+              "DarkEye",
+              "EyeBall",
+              "MadMirror"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ManEater",
+        "combinations": [
+          {
+            "base": [
+              "EvilSeed"
+            ],
+            "secondary": [
+              "EvilSeed"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Snapper",
+        "combinations": [
+          {
+            "base": [
+              "ManEater"
+            ],
+            "secondary": [
+              "ManEater"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Rosevine",
+        "combinations": [
+          {
+            "base": [
+              "PLANT"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Watabou",
+        "combinations": [
+          {
+            "base": [
+              "?????"
+            ],
+            "secondary": [
+              "?????"
+            ],
+            "notes": "Can only get once per game\nYou need Watabou to breed DarkDrium\nSo don't breed him with anything else!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BUG",
+    "units": [
+      {
+        "name": "GiantSlug",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Catapila",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gophecada",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Butterfly",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WeedBug",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GiantWorm",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Lipsy",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "StagBug",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ArmyAnt",
+        "combinations": [
+          {
+            "base": [
+              "GiantSlug"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GoHopper",
+        "combinations": [
+          {
+            "base": [
+              "?????"
+            ],
+            "secondary": [
+              "?????"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "TailEater",
+        "combinations": [
+          {
+            "base": [
+              "WeedBug"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "FloraMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ArmorPede",
+        "combinations": [
+          {
+            "base": [
+              "GiantWorm"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Droll"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "IronTurt"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Eyeder",
+        "combinations": [
+          {
+            "base": [
+              "Catapila"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "AmberWeed"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GiantMoth",
+        "combinations": [
+          {
+            "base": [
+              "Butterfly"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "Saccer"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Droll",
+        "combinations": [
+          {
+            "base": [
+              "Butterfly",
+              "TailEater",
+              "Eyeder"
+            ],
+            "secondary": [
+              "Butterfly",
+              "TailEater",
+              "Eyeder"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Lipsy"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "Spooky"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ArmyCrab",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "DarkCrab"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadHornet",
+        "combinations": [
+          {
+            "base": [
+              "Eyeder",
+              "Droll"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "FairyRat"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "HornBeet",
+        "combinations": [
+          {
+            "base": [
+              "StagBug"
+            ],
+            "secondary": [
+              "StagBug"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ArmorPede"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Armorpion",
+        "combinations": [
+          {
+            "base": [
+              "HornBeet"
+            ],
+            "secondary": [
+              "HornBeet"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Digster",
+        "combinations": [
+          {
+            "base": [
+              "BUG"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DEVIL",
+    "units": [
+      {
+        "name": "Pixy",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ArcDemon",
+        "combinations": [
+          {
+            "base": [
+              "AgDevil",
+              "Grendal",
+              "Gigantes"
+            ],
+            "secondary": [
+              "SpotKing",
+              "KingSlime",
+              "MetalKing",
+              "Andreal",
+              "GreatDrak",
+              "Orochi",
+              "Trumpeter",
+              "KingLeo",
+              "ZapBird",
+              "WhipBird",
+              "MetalDrak",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "GateGuard"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Ogre"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "AgDevil",
+        "combinations": [
+          {
+            "base": [
+              "SkulRider",
+              "EvilBeast",
+              "Gremlin",
+              "MedusaEye"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Demonite",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DarkEye",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EyeBall",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SkulRider",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EvilBeast",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "1EyeClown",
+        "combinations": [
+          {
+            "base": [
+              "Pixy",
+              "Demonite",
+              "EyeBall"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gremlin",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MedusaEye",
+        "combinations": [
+          {
+            "base": [
+              "MedusaEye",
+              "1EyeClown",
+              "Gremlin"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Lionex",
+        "combinations": [
+          {
+            "base": [
+              "ArcDemon"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "LizardMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GoatHorn",
+        "combinations": [
+          {
+            "base": [
+              "ArcDemon"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "DarkHorn"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Orc",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BeanMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Ogre",
+        "combinations": [
+          {
+            "base": [
+              "AgDevil",
+              "Grendal",
+              "Gigantes"
+            ],
+            "secondary": [
+              "GulpBeast",
+              "Unicorn",
+              "Digster",
+              "Roboster"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "GateGuard"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "HammerMan"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GateGuard",
+        "combinations": [
+          {
+            "base": [
+              "AgDevil",
+              "Grendal",
+              "Gigantes"
+            ],
+            "secondary": [
+              "SlimeBorg",
+              "Swordgon",
+              "Coatol",
+              "MistyWing",
+              "MadCondor",
+              "Rosevine",
+              "GiantMoth",
+              "Skullgon",
+              "DeadNoble",
+              "WhiteKing"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Demonite"
+            ],
+            "secondary": [
+              "Demonite"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Ogre"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "ChopClown",
+        "combinations": [
+          {
+            "base": [
+              "1EyeClown"
+            ],
+            "secondary": [
+              "1EyeClown"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Grendal",
+        "combinations": [
+          {
+            "base": [
+              "SkulRider",
+              "EvilBeast",
+              "Gremlin",
+              "MedusaEye"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "MadDragon"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Akubar",
+        "combinations": [
+          {
+            "base": [
+              "ArcDemon"
+            ],
+            "secondary": [
+              "GateGuard"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Grendal"
+            ],
+            "secondary": [
+              "Grendal"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadKnight",
+        "combinations": [
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "RogueNite"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gigantes",
+        "combinations": [
+          {
+            "base": [
+              "SkulRider",
+              "EvilBeast"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "BigEye"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Centasaur",
+        "combinations": [
+          {
+            "base": [
+              "ArcDemon"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Ogre",
+              "GateGuard"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EvilArmor",
+        "combinations": [
+          {
+            "base": [
+              "ArcDemon",
+              "Ogre",
+              "GateGuard"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DEVIL"
+            ],
+            "secondary": [
+              "ArmorPede"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Jamirus",
+        "combinations": [
+          {
+            "base": [
+              "Akubar"
+            ],
+            "secondary": [
+              "RainHawk"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "RainHawk"
+            ],
+            "secondary": [
+              "Akubar"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Durran",
+        "combinations": [
+          {
+            "base": [
+              "Centasaur"
+            ],
+            "secondary": [
+              "GoldGolem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "GoldGolem"
+            ],
+            "secondary": [
+              "Centasaur"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ZOMBIE",
+    "units": [
+      {
+        "name": "Spooky",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Skullgon",
+        "combinations": [
+          {
+            "base": [
+              "Skullgon",
+              "DeadNoble",
+              "WhiteKing",
+              "BoneSlave",
+              "Skeletor"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "Swordgon",
+              "Rayburn",
+              "Andreal",
+              "GreatDrak",
+              "Orochi",
+              "BattleRex",
+              "Divinegon"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DRAGON"
+            ],
+            "secondary": [
+              "Skullgon",
+              "DeadNoble",
+              "WhiteKing",
+              "Servant"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Putrepup",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "RotRaven",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mummy",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DarkCrab",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DeadNite",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Shadow",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "MATERIAL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Hork",
+        "combinations": [
+          {
+            "base": [
+              "Spooky"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mudron",
+        "combinations": [
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "BoxSlime",
+              "FangSlime",
+              "Tonguella",
+              "Yeti",
+              "FunkyBird",
+              "MadPlant",
+              "DanceVegi",
+              "GiantSlug",
+              "Lipsy",
+              "Droll"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "NiteWhip",
+        "combinations": [
+          {
+            "base": [
+              "DarkCrab",
+              "MadSpirit"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "MistyWing"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadSpirit",
+        "combinations": [
+          {
+            "base": [
+              "Skullgon",
+              "DeadNite",
+              "Mudron",
+              "DeadNoble",
+              "BoneSlave",
+              "Skeletor"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WindMerge",
+        "combinations": [
+          {
+            "base": [
+              "RotRaven"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "WindBeast"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Reaper",
+        "combinations": [
+          {
+            "base": [
+              "Spooky",
+              "Hork"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "WeedBug"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DeadNoble",
+        "combinations": [
+          {
+            "base": [
+              "Mudron",
+              "MadSpirit",
+              "BoneSlave",
+              "Skeletor"
+            ],
+            "secondary": [
+              "ArcDemon",
+              "Lionex",
+              "GateGuard",
+              "MetalDrak",
+              "Roboster"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Skullgon",
+              "DeadNite",
+              "Mudron",
+              "BoneSlave",
+              "Skeletor"
+            ],
+            "secondary": [
+              "Copycat"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "DeadNite"
+            ],
+            "secondary": [
+              "DeadNite"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "WhiteKing",
+        "combinations": [
+          {
+            "base": [
+              "Skullgon",
+              "DeadNoble",
+              "BoneSlave",
+              "Skeletor"
+            ],
+            "secondary": [
+              "SpotKing",
+              "KingSlime",
+              "MetalKing",
+              "Andreal",
+              "GreatDrak",
+              "KingLeo",
+              "Blizzardy",
+              "ZapBird",
+              "WhipBird",
+              "GoldGolem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "ZOMBIE"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BoneSlave",
+        "combinations": [
+          {
+            "base": [
+              "Mummy",
+              "DeadNite",
+              "Hork"
+            ],
+            "secondary": [
+              "RockSlime",
+              "SlimeBorg",
+              "LandOwl",
+              "MadGoose",
+              "FloraMan",
+              "HornBeet",
+              "Gremlin"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Hork"
+            ],
+            "secondary": [
+              "Hork"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Skeletor",
+        "combinations": [
+          {
+            "base": [
+              "Mummy",
+              "DeadNite",
+              "Hork",
+              "Mudron"
+            ],
+            "secondary": [
+              "GulpBeast",
+              "Grizzly",
+              "MadCat",
+              "MadRaven",
+              "MadCondor",
+              "EvilBeast",
+              "Ogre",
+              "Golem",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "BoneSlave"
+            ],
+            "secondary": [
+              "BoneSlave"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MadSpirit"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Servant",
+        "combinations": [
+          {
+            "base": [
+              "Skeletor"
+            ],
+            "secondary": [
+              "Skeletor"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "WhiteKing"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Copycat",
+        "combinations": [
+          {
+            "base": [
+              "?????"
+            ],
+            "secondary": [
+              "?????"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MATERIAL",
+    "units": [
+      {
+        "name": "JewelBag",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EvilWand",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadCandle",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "BEAST"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "CoilBird",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Facer",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "PLANT"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SpikyBoy",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MadMirror",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "RogueNite",
+        "combinations": [
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Goopi",
+        "combinations": [
+          {
+            "base": [
+              "JewelBag"
+            ],
+            "secondary": [
+              "SLIME"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Voodoll",
+        "combinations": [
+          {
+            "base": [
+              "Golem",
+              "StoneMan"
+            ],
+            "secondary": [
+              "DrakSlime",
+              "Snaily",
+              "SlimeNite",
+              "RockSlime"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "Lipsy"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MetalDrak",
+        "combinations": [
+          {
+            "base": [
+              "Andreal",
+              "Spikerous",
+              "GreatDrak"
+            ],
+            "secondary": [
+              "SlimeBorg",
+              "KingSlime",
+              "Digster",
+              "Skullgon",
+              "Roboster",
+              "Golem",
+              "StoneMan"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MetalDrak",
+              "Roboster"
+            ],
+            "secondary": [
+              "DRAGON"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "Andreal"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Balzak",
+        "combinations": [
+          {
+            "base": [
+              "LavaMan",
+              "IceMan"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "BOSS"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "SabreMan",
+        "combinations": [
+          {
+            "base": [
+              "EvilWand",
+              "Voodoll",
+              "Golem",
+              "StoneMan"
+            ],
+            "secondary": [
+              "LandOwl",
+              "MadGoose",
+              "Phoenix",
+              "FunkyBird"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "GiantWorm"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "CurseLamp",
+        "combinations": [
+          {
+            "base": [
+              "Roboster"
+            ],
+            "secondary": [
+              "BIRD"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "WingTree"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Roboster",
+        "combinations": [
+          {
+            "base": [
+              "SabreMan"
+            ],
+            "secondary": [
+              "SlimeBorg",
+              "GreatDrak",
+              "Unicorn",
+              "Ogre",
+              "Grendal",
+              "EvilArmor",
+              "DeadNoble",
+              "Skeletor"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "GulpBeast",
+              "Grizzly",
+              "Trumpeter",
+              "KingLeo",
+              "SkulRider"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "EvilPot",
+        "combinations": [
+          {
+            "base": [
+              "Gismo"
+            ],
+            "secondary": [
+              "DEVIL"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "Snaily"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Gismo",
+        "combinations": [
+          {
+            "base": [
+              "MadCandle",
+              "MadMirror",
+              "Goopi"
+            ],
+            "secondary": [
+              "DrakSlime",
+              "Wyvern",
+              "MistyWing",
+              "Phoenix",
+              "FireWeed",
+              "EvilSeed"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "LavaMan",
+        "combinations": [
+          {
+            "base": [
+              "MetalDrak"
+            ],
+            "secondary": [
+              "Orochi",
+              "KingLeo",
+              "ZapBird",
+              "ArcDemon",
+              "Centasaur"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "IceMan",
+        "combinations": [
+          {
+            "base": [
+              "MetalDrak"
+            ],
+            "secondary": [
+              "Skullgon",
+              "WhiteKing"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Roboster"
+            ],
+            "secondary": [
+              "KingLeo"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mimic",
+        "combinations": [
+          {
+            "base": [
+              "Roboster"
+            ],
+            "secondary": [
+              "ZOMBIE"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "BoxSlime"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "MudDoll",
+        "combinations": [
+          {
+            "base": [
+              "Goopi"
+            ],
+            "secondary": [
+              "Goopi"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Golem",
+        "combinations": [
+          {
+            "base": [
+              "MudDoll"
+            ],
+            "secondary": [
+              "MudDoll"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "StoneMan",
+        "combinations": [
+          {
+            "base": [
+              "Golem"
+            ],
+            "secondary": [
+              "Golem"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "MATERIAL"
+            ],
+            "secondary": [
+              "HornBeet",
+              "Digster"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "BombCrag",
+        "combinations": [
+          {
+            "base": [
+              "SpikyBoy"
+            ],
+            "secondary": [
+              "SpikyBoy"
+            ],
+            "notes": ""
+          },
+          {
+            "base": [
+              "Roboster"
+            ],
+            "secondary": [
+              "BUG"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "GoldGolem",
+        "combinations": [
+          {
+            "base": [
+              "IceMan"
+            ],
+            "secondary": [
+              "LavaMan"
+            ],
+            "notes": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BOSS",
+    "units": [
+      {
+        "name": "DracoLord1",
+        "combinations": [
+          {
+            "base": [
+              "Servant"
+            ],
+            "secondary": [
+              "Andreal",
+              "GreatDrak"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DracoLord2",
+        "combinations": [
+          {
+            "base": [
+              "DracoLord1"
+            ],
+            "secondary": [
+              "Divinegon"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Hargon",
+        "combinations": [
+          {
+            "base": [
+              "WhiteKing"
+            ],
+            "secondary": [
+              "MetalKing"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Sidoh",
+        "combinations": [
+          {
+            "base": [
+              "Jamirus"
+            ],
+            "secondary": [
+              "Rosevine"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Baramos",
+        "combinations": [
+          {
+            "base": [
+              "Hargon"
+            ],
+            "secondary": [
+              "Orochi"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Zoma",
+        "combinations": [
+          {
+            "base": [
+              "DracoLord"
+            ],
+            "secondary": [
+              "Sidoh"
+            ],
+            "notes": "Can use either DracoLord"
+          }
+        ]
+      },
+      {
+        "name": "Pizzaro",
+        "combinations": [
+          {
+            "base": [
+              "Durran"
+            ],
+            "secondary": [
+              "Divinegon"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Esterk",
+        "combinations": [
+          {
+            "base": [
+              "Pizzaro"
+            ],
+            "secondary": [
+              "KingLeo"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mirudraas1",
+        "combinations": [
+          {
+            "base": [
+              "Esterk"
+            ],
+            "secondary": [
+              "GoldSlime"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mirudraas2",
+        "combinations": [
+          {
+            "base": [
+              "Mirudraas1"
+            ],
+            "secondary": [
+              "Spikerous"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "Mudou",
+        "combinations": [
+          {
+            "base": [
+              "Baramos"
+            ],
+            "secondary": [
+              "DarkHorn"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DeathMore1",
+        "combinations": [
+          {
+            "base": [
+              "Zoma"
+            ],
+            "secondary": [
+              "Mirudraas"
+            ],
+            "notes": "Can use either Mirudraas"
+          }
+        ]
+      },
+      {
+        "name": "DeathMore2",
+        "combinations": [
+          {
+            "base": [
+              "DeathMore1"
+            ],
+            "secondary": [
+              "Armorpion"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DeathMore3",
+        "combinations": [
+          {
+            "base": [
+              "DeathMore2"
+            ],
+            "secondary": [
+              "Mudou"
+            ],
+            "notes": ""
+          }
+        ]
+      },
+      {
+        "name": "DarkDrium",
+        "combinations": [
+          {
+            "base": [
+              "DeathMore3"
+            ],
+            "secondary": [
+              "Watabou"
+            ],
+            "notes": "Can only make once per game\nSince there's only one Watabou"
+          }
+        ]
+      }
+    ]
+  }
+]
