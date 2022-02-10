@@ -3,14 +3,12 @@ module Main exposing (main)
 import Browser exposing (UrlRequest)
 import Dict exposing (Dict)
 import Element exposing (..)
-import Element.Background as Background
 import Element.Border as Border
-import Element.Events as Events
 import Element.Font as Font
 import Element.Input as Input
 import Html exposing (Html)
 import Http
-import Json.Decode as D exposing (Decoder, field, int, string)
+import Json.Decode as D exposing (Decoder)
 import Url exposing (Url)
 
 
@@ -92,7 +90,7 @@ type alias Model =
 
 
 init : flags -> ( Model, Cmd Msg )
-init flags =
+init _ =
     let
         defaultTab =
             { name = "Dragon Warrior Monsters 1"
