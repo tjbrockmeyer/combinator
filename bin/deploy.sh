@@ -26,7 +26,7 @@ echo 'Deploying application...'
 lightsail-ssh.sh "$LIGHTSAIL_INSTANCE" \
 "docker stop \$(cat ~/$APP_NAME) &>/dev/null;
 docker rm \$(cat ~/$APP_NAME) &>/dev/null;
-docker run -d $APP_NAME > ~/$APP_NAME;"
+docker run -d -p 8080:80 $APP_NAME > ~/$APP_NAME;"
 
 rm -rf /tmp/$APP_NAME
 echo 'Done.'
