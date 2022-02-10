@@ -3,6 +3,7 @@ set -e
 REPO_NAME=combinator
 APP_NAME=combinator
 LIGHTSAIL_INSTANCE=LS1
+PORT=8081
 
 VERSION=$1
 if [[ -z $VERSION ]]; then
@@ -18,7 +19,7 @@ if ! git checkout "tags/$VERSION"; then
 fi
 
 echo 'Building image...'
-docker build -t $APP_NAME .
+./bin/build.sh
 echo 'Sending image to lightsail instance...'
 docker save $APP_NAME | bzip2 | lightsail-ssh.sh "$LIGHTSAIL_INSTANCE" 'docker load'
 
@@ -26,7 +27,7 @@ echo 'Deploying application...'
 lightsail-ssh.sh "$LIGHTSAIL_INSTANCE" \
 "docker stop \$(cat ~/$APP_NAME) &>/dev/null;
 docker rm \$(cat ~/$APP_NAME) &>/dev/null;
-docker run -d -p 8080:80 $APP_NAME > ~/$APP_NAME;"
+docker run -d -p $PORT:80 $APP_NAME > ~/$APP_NAME;"
 
 rm -rf /tmp/$APP_NAME
 echo 'Done.'

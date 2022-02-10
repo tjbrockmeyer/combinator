@@ -1,1 +1,1 @@
-elm-live -d public src/Main.elm -- --output public/index.html
+docker run --rm -dit -p 8081:80 --name combinator combinator
