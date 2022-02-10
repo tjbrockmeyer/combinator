@@ -86,6 +86,7 @@ type alias Model =
         , familiesByName : Dict String Family
         }
     , lastError : String
+    , baseUrl : String
     }
 
 
@@ -110,6 +111,7 @@ init _ =
                 Dict.empty
             }
       , lastError = ""
+      , baseUrl = "/combinator"
       }
     , Cmd.none
     )
@@ -153,7 +155,7 @@ update msg model =
             ( { model
                 | selectedTab = tab
               }
-            , fetchData tab.fileHref
+            , fetchData model.baseUrl tab.fileHref
             )
 
         ReceiveData result ->
@@ -472,10 +474,10 @@ getCombinesInto dataFamilies unit =
 -- COMMANDS --
 
 
-fetchData : String -> Cmd Msg
-fetchData fileHref =
+fetchData : String -> String -> Cmd Msg
+fetchData baseUrl fileHref =
     Http.get
-        { url = fileHref
+        { url = baseUrl ++ fileHref
         , expect = Http.expectJson ReceiveData dataDecoder
         }
 
