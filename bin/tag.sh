@@ -11,7 +11,7 @@ if [[ -n "$(git status --porcelain=v1 2>/dev/null)" ]]; then
     exit 1
 fi
 
-elm make src/Main.elm
+bin/build.sh
 
 git tag -a "$VERSION" -m "Release version $VERSION"
 git push --tags
