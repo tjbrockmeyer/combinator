@@ -11,6 +11,7 @@ if [[ -z $VERSION ]]; then
     exit 1
 fi
 
+set +e; rm -rf /tmp/$APP_NAME; set -e
 git clone git@github.com:tjbrockmeyer/$REPO_NAME /tmp/$APP_NAME
 cd /tmp/$APP_NAME
 if ! git checkout "tags/$VERSION"; then
