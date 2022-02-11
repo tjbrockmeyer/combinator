@@ -26,9 +26,8 @@ docker save $APP_NAME | bzip2 | lightsail-ssh.sh "$LIGHTSAIL_INSTANCE" 'docker l
 
 echo 'Deploying application...'
 lightsail-ssh.sh "$LIGHTSAIL_INSTANCE" \
-"docker stop \$(cat ~/$APP_NAME) &>/dev/null;
-docker rm \$(cat ~/$APP_NAME) &>/dev/null;
-docker run -d -p $PORT:80 $APP_NAME > ~/$APP_NAME;"
+"docker stop $APP_NAME &>/dev/null;
+docker run -dit -p $PORT:80 --rm --name $APP_NAME $APP_NAME;"
 
 rm -rf /tmp/$APP_NAME
 echo 'Done.'
