@@ -19,7 +19,7 @@ services:
     labels:
       - traefik.enable=true
       - traefik.http.services.combinator.loadbalancer.server.port=80
-      - traefik.http.routers.combinator.rule=Host(`teabee.dev`) && (PathPrefix(`/combinator`)
+      - traefik.http.routers.combinator.rule=Host(`teabee.dev`) && PathPrefix(`/combinator`)
       - traefik.http.routers.combinator.entrypoints=web-secure
       - traefik.http.routers.combinator.tls=true
       - traefik.http.routers.combinator.tls.certresolver=letsencrypt
