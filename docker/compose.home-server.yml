@@ -1,0 +1,22 @@
+version: '3'
+services:
+  app:
+    restart: always
+    build:
+      context: '..'
+      dockerfile: ./docker/Dockerfile
+    logging:
+      driver: loki
+      options:
+        loki-url: https://sys.teabee.dev/loki/api/v1/push
+        max-file: 2
+        max-size: 200m
+    networks:
+      - proxy
+    labels:
+      - traefik.enable=true
+      - traefik.http.services.combinator.loadbalancer.server.port=80
+      - traefik.http.routers.combinator.rule=Host(`teabee.dev`) && (PathPrefix(`/combinator`)
+      - traefik.http.routers.combinator.entrypoints=web-secure
+      - traefik.http.routers.combinator.tls=true
+      - traefik.http.routers.combinator.tls.certresolver=letsencrypt
