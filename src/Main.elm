@@ -1,6 +1,6 @@
 module Main exposing (main)
 
-import Browser exposing (UrlRequest)
+import Browser
 import Dict exposing (Dict)
 import Element exposing (..)
 import Element.Border as Border
@@ -9,7 +9,6 @@ import Element.Input as Input
 import Html exposing (Html)
 import Http
 import Json.Decode as D exposing (Decoder)
-import Url exposing (Url)
 
 
 
