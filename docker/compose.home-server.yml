@@ -5,15 +5,7 @@ networks:
 services:
   app:
     restart: always
-    build:
-      context: '..'
-      dockerfile: ./docker/Dockerfile
-    logging:
-      driver: loki
-      options:
-        loki-url: https://sys.teabee.dev/loki/api/v1/push
-        max-file: 2
-        max-size: 200m
+    image: cr.teabee.dev/tjbrockmeyer/combinator:${IMAGE_TAG}
     networks:
       - proxy
     labels:

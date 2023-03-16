@@ -1,0 +1,21 @@
+---
+kind: template
+load: template:1.yaml
+data:
+  test_and_build:
+    - input: &test-build
+        event: push
+        paths:
+          - src/**/*.elm
+          - elm.json
+          - public/**/*
+        dockerfile: docker/Dockerfile
+        test_image: codesimple/elm:0.19
+        test_commands:
+          - echo no tests!
+    - input:
+        <<: *test-build
+        event: tag
+  deploy_via_ssh:
+    - input:
+        compose_file: docker/compose.home-server.yml
